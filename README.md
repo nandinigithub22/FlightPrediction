@@ -30,14 +30,11 @@ This project is a flight price prediction system built using Python. It leverage
 
 ++ To get started with the Flight Price Prediction system, you'll need to have Python installed on your machine. Follow the steps below:
 
--Clone the repository:
-git clone https://github.com/yourusername/flight-price-prediction.git
+-Clone the repository
 
--Navigate to the project directory:
-cd flight-price-prediction
+-Navigate to the project directory
 
--Install the required dependencies:
-pip install -r requirements.txt
+-Install the required dependencies
 
 
 # 🚀 Usage
