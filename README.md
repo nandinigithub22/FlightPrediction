@@ -1,2 +1,2 @@
-# Flight Price Recommendation System
+# Flight Price Prediction System
 
