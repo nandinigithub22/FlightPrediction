@@ -8,6 +8,7 @@ This project is a flight price prediction system built using Python. It leverage
   - 🚀 Usage
   - 📊 Data
   - 🧠 Model
+  - 💻 User Interface
   - 🤝 Contributing
   - 📜 License
 
@@ -62,6 +63,20 @@ The dataset used for this project is  included in the repository.
 
 # 🧠 Model
 The system utilizes a machine learning model trained using historical flight data. The model can be customized and improved by trying different algorithms, tuning hyperparameters, and adjusting the preprocessing pipeline.
+
+# User Interface
+1. Enter the Details of your Journey :
+![Screenshot 2024-08-08 164705 1](https://github.com/user-attachments/assets/56ac5270-7f5c-4baf-bda5-b0c0121a2f77)
+
+2. Click on Predict Flight Price :
+   
+![Screenshot 2024-08-08 164751 1](https://github.com/user-attachments/assets/2a65f31a-66a8-4818-bbf0-ab803d307d7d)
+
+3. Here You go !!
+
+![Screenshot 2024-08-08 164800 1](https://github.com/user-attachments/assets/3097d6bd-b829-45b6-8578-c4463f54acfe)
+
+
 
 # 🤝 Contributing
 Contributions to the Flight Price Prediction system are welcome! If you find a bug or have a feature request, please open an issue. You can also fork the repository and submit a pull request.
