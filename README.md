@@ -23,7 +23,9 @@ This project is a flight price prediction system built using Python. It leverage
   - 🔍 Predicts flight prices based on various input features.
   - 🛠 Supports different data preprocessing techniques like handling missing values.
   - 📈 Provides insights through visualizations like histograms, scatter plots, etc.
-  - 🔧 Installation
+
+
+# 🔧 Installation
 
 
 ++ To get started with the Flight Price Prediction system, you'll need to have Python installed on your machine. Follow the steps below:
