@@ -2,7 +2,7 @@
 This project is a flight price prediction system built using Python. It leverages various machine learning techniques to predict flight prices based on a set of input features.
 
 # 📑 Table of Contents
-📝 Introduction \\
+📝 Introduction \n
 ✨ Features
 🔧 Installation
 🚀 Usage
