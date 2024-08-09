@@ -66,6 +66,7 @@ The system utilizes a machine learning model trained using historical flight dat
 
 # User Interface
 1. Enter the Details of your Journey :
+   
 ![Screenshot 2024-08-08 164705 1](https://github.com/user-attachments/assets/56ac5270-7f5c-4baf-bda5-b0c0121a2f77)
 
 2. Click on Predict Flight Price :
@@ -84,4 +85,3 @@ Contributions to the Flight Price Prediction system are welcome! If you find a b
 # 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-This version of the README incorporates emojis to make it visually appealing and more
