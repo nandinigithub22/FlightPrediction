@@ -4,15 +4,19 @@ This project is a flight price prediction system built using Python. It leverage
 # 📑 Table of Contents
   - 📝 Introduction 
   - ✨ Features
-  -🔧 Installation
+  - 🔧 Installation
   - 🚀 Usage
   - 📊 Data
   - 🧠 Model
-  -🤝 Contributing
-  -📜 License
+  - 🤝 Contributing
+  - 📜 License
 
 # 📝 Introduction
-The Flight Price Prediction system is designed to predict the cost of flights based on multiple factors such as airline, departure time, arrival time, and more. The system is implemented using a machine learning model trained on historical flight data.
+🛠️ Built with:
+  - Python: Core logic for data processing and model implementation.
+  - Flask: Web framework to create the web application.
+  - HTML/CSS: Frontend for the user interface.
+  - The Flight Price Prediction system is designed to predict the cost of flights based on multiple factors such as airline, departure time, arrival time, and more. The system is implemented using a machine  learning model trained on historical flight data and is accessible via a user-friendly web application.
 
 # ✨ Features
 🔍 Predicts flight prices based on various input features.
